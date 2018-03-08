@@ -1,6 +1,6 @@
 # Optimization and Interdependencies
 
-This repo contains all the code, data and documentation for one my senior-year integrated design projects at the University of Illinois at Urbana--Champaign. There are two parts: 
+This repo contains all the code, data and documentation for one of my senior-year integrated design projects at the University of Illinois at Urbana--Champaign. There are two parts: 
 
 ## Economic Input / Output model of US critical infrastructure
 
